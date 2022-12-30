@@ -1,7 +1,7 @@
 <h1 align="center"> HTML part of a simple Facebook Page </h1>
 
 ## What It Does
-HTML as we now know sets the content of a web page. The raw content is shown when we open it on the browser.
+HTML as we know sets the content of a web page. The raw content is shown when we open it on the browser.
 In part 2, broken image is added.
 
 ## Screenshot Of The Project
